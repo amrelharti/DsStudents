@@ -1,0 +1,6 @@
+input StudentRequest{
+    id_Student : Float
+    name : String
+    email : String
+    dateNaissance : Date
+}

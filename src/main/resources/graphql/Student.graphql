@@ -1,0 +1,10 @@
+type Student{
+    id_Student : Float
+    name : String
+    email : String
+    dateNaissance : Date
+}
+
+enum Date {
+   date
+}
